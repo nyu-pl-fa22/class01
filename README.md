@@ -1,4 +1,4 @@
-# Class 1: Introduction, Syntax and Semantics
+## Class 1: Introduction, Syntax and Semantics
 
 Please review the [slides](class01.pdf) for the introductory class.
 
